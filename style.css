@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-color: white;
+}
+
+table{
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+th, td{
+    border: 1px solid black;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+th{
+    background-color: rgb(173, 173, 40);
+}
+.publi{ background-color: #009bcc; color: white;}
+.lane{ background-color: #96c21f; color: white;}
+.kids{background-color: rgb(238, 159, 12); color: white;}
+.edu{background-color: orchid ;color: white;}
+.aquacise{background-color: rgb(114, 128, 123); color: white;}
+.edu{background-color: orchid ;color: white;}
+.aqua{background-color: rgb(238, 159, 12); color: white;}
